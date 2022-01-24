@@ -1,0 +1,3 @@
+[submodule "prisma-database"]
+	path = prisma-database
+	url = https://github.com/shvetamKumar/prisma-database
